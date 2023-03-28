@@ -24,4 +24,9 @@ let jsondata = [
     query: "danny",
     gender: "先生",
   },
+  {
+    name: "",
+    query: "test",
+    gender: "",
+  },
 ];
