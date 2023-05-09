@@ -30,8 +30,8 @@ let jsondata = [
     gender: "",
   },
   {
-    name: "邱子芳",
-    query: "fang",
-    gender: "經理",
+    name: "童俊傑",
+    query: "jorge",
+    gender: "先生",
   },
 ];
