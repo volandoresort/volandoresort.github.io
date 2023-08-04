@@ -20,9 +20,9 @@ let jsondata = [
     gender: "先生",
   },
   {
-    name: "謝義偉",
-    query: "danny",
-    gender: "先生",
+    name: "",
+    query: "colleague",
+    gender: "",
   },
   {
     name: "貴賓",
