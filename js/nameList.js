@@ -39,9 +39,15 @@ let jsondata = [
     query: "01230731301",
     gender: "小姐",
   },
+  
   {
     name: "張甄育",
     query: "01230806602",
     gender: "小姐",
+  },
+  {
+    name: "陳正輝",
+    query: "01230810101",
+    gender: "先生",
   },
 ];
