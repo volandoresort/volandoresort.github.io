@@ -1,7 +1,9 @@
-   },
+let jsondata = [
+   {
     name: "陳建勛",
     query: "",
     gender: "先生"
+   },  
   {
     name: "廖采揚",
     query: "leo",
