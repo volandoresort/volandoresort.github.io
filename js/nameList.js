@@ -120,10 +120,5 @@ let jsondata = [
     query: "01230904703",
     gender: "小姐",
   },
-   {
-    name: "測試",
-    query: "02020",
-    gender: "小姐",
-  },
 ];
 
