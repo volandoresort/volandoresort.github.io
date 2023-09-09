@@ -21,7 +21,7 @@ let jsondata = [
   },
   {
     name: "貴賓",
-    query: "guest",
+    query: "vip",
     gender: "",
   },
   {
