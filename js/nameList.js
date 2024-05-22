@@ -1,8 +1,8 @@
 let jsondata = [
   {
-    name: "廖采揚",
-    query: "leo",
-    gender: "博士",
+    name: "馥蘭朵",
+    query: "member",
+    gender: "會員",
   },
   {
     name: "賴麒宇",
