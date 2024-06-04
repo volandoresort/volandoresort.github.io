@@ -2,7 +2,7 @@ let jsondata = [
   {
     name: "馥蘭朵x馥森",
     query: "member",
-    gender: "會員",
+    gender: "   會員",
   },
   {
     name: "賴麒宇",
